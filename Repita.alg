@@ -12,7 +12,7 @@ inicio
         S <- S + N
         Escreval("Você quer continuar ? |s/n|")
         Leia (resp)
-   Ate (Resp = "N")
+   Ate (Resp = "n")
 Escreval("A soma  de todos os valores é: ",S)
 
 
