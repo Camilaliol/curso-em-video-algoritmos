@@ -8,7 +8,7 @@ inicio
     S < 0
     resp <- "S"
     enquanto (resp = "S") faca
-        Escreval("Digite um valor: ")
+        Escreva("Digite um valor: ")
         Leia(N)
         S <- s + n
         Escreval("Você quer continuar ? |S/N|")
